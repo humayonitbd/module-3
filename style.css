@@ -10,3 +10,18 @@ h2{
     color: black;
     text-align: center;
 }
+.others{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one, .two, p{
+    background: none;
+    color: black;
+    margin: 0;
+}
+
+.one,.two{
+    margin: 0 15px;
+    text-align: justify;
+}
